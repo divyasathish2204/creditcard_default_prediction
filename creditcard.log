@@ -1,0 +1,30 @@
+2024-07-22 12:39:52,991 WARNING  * Debugger is active!
+2024-07-22 12:39:53,006 INFO  * Debugger PIN: 390-941-494
+2024-07-22 12:39:54,413 WARNING  * Debugger is active!
+2024-07-22 12:39:54,421 INFO  * Debugger PIN: 697-878-396
+2024-07-22 12:41:51,300 INFO  * Detected change in 'C:\\credit_based_default_detection\\Credit-Card-Default-Prediction\\main.py', reloading
+2024-07-22 12:41:55,913 INFO  * Detected change in 'C:\\credit_based_default_detection\\Credit-Card-Default-Prediction\\main.py', reloading
+2024-07-22 12:41:59,561 WARNING  * Debugger is active!
+2024-07-22 12:41:59,570 INFO  * Debugger PIN: 390-941-494
+2024-07-22 12:42:03,373 WARNING  * Debugger is active!
+2024-07-22 12:42:03,383 INFO  * Debugger PIN: 697-878-396
+2024-07-22 12:42:55,662 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:50001
+2024-07-22 12:42:55,662 INFO [33mPress CTRL+C to quit[0m
+2024-07-22 12:42:55,664 INFO  * Restarting with stat
+2024-07-22 12:42:58,433 WARNING  * Debugger is active!
+2024-07-22 12:42:58,437 INFO  * Debugger PIN: 697-878-396
+2024-07-22 12:45:04,466 INFO  * Detected change in 'C:\\credit_based_default_detection\\Credit-Card-Default-Prediction\\main.py', reloading
+2024-07-22 12:45:09,249 WARNING  * Debugger is active!
+2024-07-22 12:45:09,271 INFO  * Debugger PIN: 390-941-494
+2024-07-22 12:45:12,929 INFO  * Detected change in 'C:\\credit_based_default_detection\\Credit-Card-Default-Prediction\\main.py', reloading
+2024-07-22 12:45:13,292 INFO  * Restarting with stat
+2024-07-22 12:45:17,660 WARNING  * Debugger is active!
+2024-07-22 12:45:17,679 INFO  * Debugger PIN: 697-878-396
+2024-07-22 12:49:28,701 INFO  * Detected change in 'C:\\credit_based_default_detection\\Credit-Card-Default-Prediction\\main.py', reloading
+2024-07-22 12:49:28,711 INFO  * Detected change in 'C:\\credit_based_default_detection\\Credit-Card-Default-Prediction\\main.py', reloading
+2024-07-22 12:49:29,227 INFO  * Restarting with stat
+2024-07-22 12:49:32,982 WARNING  * Debugger is active!
+2024-07-22 12:49:32,988 INFO  * Debugger PIN: 697-878-396
+2024-07-22 12:49:33,614 WARNING  * Debugger is active!
+2024-07-22 12:49:33,620 INFO  * Debugger PIN: 390-941-494

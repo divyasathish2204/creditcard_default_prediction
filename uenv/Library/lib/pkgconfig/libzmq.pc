@@ -1,0 +1,12 @@
+prefix=c:/credit_based_default_detection/Credit-Card-Default-Prediction/uenv/Library
+exec_prefix=c:/credit_based_default_detection/Credit-Card-Default-Prediction/uenv/Library
+libdir=c:/credit_based_default_detection/Credit-Card-Default-Prediction/uenv/Library/lib
+includedir=c:/credit_based_default_detection/Credit-Card-Default-Prediction/uenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
